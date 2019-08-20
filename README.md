@@ -6,4 +6,5 @@
 目标检测Demo：检测缝纫机，员工，以及缝纫区域
 ![image](https://github.com/CS594398574/Demo/blob/master/detection.gif)
 <br>视频分类Demo和时序动作检测Demo将更新
+![image](https://github.com/CS594398574/Demo/blob/master/video_cls.jpg)
 ..........
