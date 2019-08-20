@@ -7,4 +7,6 @@
 ![image](https://github.com/CS594398574/Demo/blob/master/detection.gif)
 <br>视频分类Demo
 ![image](https://github.com/CS594398574/Demo/blob/master/video_cls.jpg)
+![image](https://github.com/CS594398574/Demo/blob/master/rawvideo.gif)
+![image](https://github.com/CS594398574/Demo/blob/master/clasvideo.gif)
 ..........
